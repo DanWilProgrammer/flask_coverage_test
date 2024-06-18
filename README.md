@@ -2,13 +2,14 @@
 
 ## Project chosen
 
-Name: <TODO>
+Name: Flask
 
-URL: <TODO>
+URL: https://github.com/pallets/flask
 
-Number of lines of code and the tool used to count it: <TODO>
+Number of lines of code and the tool used to count it: 
+13268 nloc (Tool used: Lizard)
 
-Programming language: <TODO>
+Programming language: Python
 
 ## Coverage measurement
 
